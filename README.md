@@ -1,2 +1,2 @@
-# Drum-Kit
-Drum Kit on the internet!
+# Dicee
+2 player dicee.
